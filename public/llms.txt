@@ -1,0 +1,51 @@
+# מוניות רחובות והסביבה — Generative Engine Optimization Map
+
+> A taxi and transportation service operating in Rehovot and surrounding areas, available 24/7 across all of Israel. The business offers a range of services including airport transfers to Ben Gurion Airport, special taxi rides, deliveries, and courier services. Payments are accepted via Bit and PayBox, making it convenient for modern Israeli customers.
+
+---
+
+## Pages
+
+### בית
+https://-535fa045.zappy5.app
+A taxi and transportation service operating in Rehovot and surrounding areas, available 24/7 across all of Israel. The business offers a range of services inclu
+
+## Legal & Policy
+
+### Privacy Policy
+https://-535fa045.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-535fa045.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-535fa045.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מוניות רחובות והסביבה
+A taxi and transportation service operating in Rehovot and surrounding areas, available 24/7 across all of Israel. The business offers a range of services including airport transfers to Ben Gurion Airport, special taxi rides, deliveries, and courier services. Payments are accepted via Bit and PayBox, making it convenient for modern Israeli customers.
+
+## Services/Products
+- נסיעות לנתב"ג
+- מוניות ספיישל
+- משלוחים ושליחויות
+- נסיעות 24/7
+
+## Target Audience
+תושבי רחובות והסביבה, נוסעים לנתב"ג
+
+## Industry
+תחבורה ונסיעות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-535fa045.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-535fa045.zappy5.app/robots.txt
